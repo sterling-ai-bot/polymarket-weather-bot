@@ -1,0 +1,295 @@
+{
+  "log_path": "/Users/pidaparti-ai/.openclaw/workspace/polymarket-weather-bot/data/sim_log.jsonl",
+  "trade_notional": 10.0,
+  "sweep_divs": [
+    0.08,
+    0.1,
+    0.12,
+    0.15,
+    0.2
+  ],
+  "sweep_prices": [
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.5
+  ],
+  "results": [
+    {
+      "min_div": 0.08,
+      "max_price": 0.15,
+      "trades": 15,
+      "avg_divergence": 0.10357389228627141,
+      "avg_fill_price": 0.03850304364165228,
+      "avg_edge": 0.019791892189327732,
+      "total_shares": 7193.631233194158,
+      "nyc_count": 7,
+      "chicago_count": 8
+    },
+    {
+      "min_div": 0.08,
+      "max_price": 0.2,
+      "trades": 25,
+      "avg_divergence": 0.10232964324792848,
+      "avg_fill_price": 0.06725788312925186,
+      "avg_edge": 0.036154268106768715,
+      "total_shares": 8626.382833334214,
+      "nyc_count": 14,
+      "chicago_count": 11
+    },
+    {
+      "min_div": 0.08,
+      "max_price": 0.25,
+      "trades": 26,
+      "avg_divergence": 0.10187199422842805,
+      "avg_fill_price": 0.07811310617157258,
+      "avg_edge": 0.030360116170754903,
+      "total_shares": 8654.995653847034,
+      "nyc_count": 14,
+      "chicago_count": 12
+    },
+    {
+      "min_div": 0.08,
+      "max_price": 0.3,
+      "trades": 26,
+      "avg_divergence": 0.10187199422842805,
+      "avg_fill_price": 0.07811310617157258,
+      "avg_edge": 0.030360116170754903,
+      "total_shares": 8654.995653847034,
+      "nyc_count": 14,
+      "chicago_count": 12
+    },
+    {
+      "min_div": 0.08,
+      "max_price": 0.5,
+      "trades": 31,
+      "avg_divergence": 0.1030056082520988,
+      "avg_fill_price": 0.13931487978327092,
+      "avg_edge": 0.022082268632071005,
+      "total_shares": 8764.465135085618,
+      "nyc_count": 17,
+      "chicago_count": 14
+    },
+    {
+      "min_div": 0.1,
+      "max_price": 0.15,
+      "trades": 3,
+      "avg_divergence": 0.156753507385903,
+      "avg_fill_price": 0.0229639394773129,
+      "avg_edge": 0.05074460802989694,
+      "total_shares": 1520.2295211988303,
+      "nyc_count": 3,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.1,
+      "max_price": 0.2,
+      "trades": 8,
+      "avg_divergence": 0.12940386919850175,
+      "avg_fill_price": 0.06012416448143215,
+      "avg_edge": 0.07132906098903294,
+      "total_shares": 2574.5033902464493,
+      "nyc_count": 7,
+      "chicago_count": 1
+    },
+    {
+      "min_div": 0.1,
+      "max_price": 0.25,
+      "trades": 8,
+      "avg_divergence": 0.12940386919850175,
+      "avg_fill_price": 0.06012416448143215,
+      "avg_edge": 0.07132906098903294,
+      "total_shares": 2574.5033902464493,
+      "nyc_count": 7,
+      "chicago_count": 1
+    },
+    {
+      "min_div": 0.1,
+      "max_price": 0.3,
+      "trades": 8,
+      "avg_divergence": 0.12940386919850175,
+      "avg_fill_price": 0.06012416448143215,
+      "avg_edge": 0.07132906098903294,
+      "total_shares": 2574.5033902464493,
+      "nyc_count": 7,
+      "chicago_count": 1
+    },
+    {
+      "min_div": 0.1,
+      "max_price": 0.5,
+      "trades": 10,
+      "avg_divergence": 0.1305230953588014,
+      "avg_fill_price": 0.1400993315851457,
+      "avg_edge": 0.04696076846803206,
+      "total_shares": 2618.0639963070553,
+      "nyc_count": 7,
+      "chicago_count": 3
+    },
+    {
+      "min_div": 0.12,
+      "max_price": 0.15,
+      "trades": 2,
+      "avg_divergence": 0.1757344089515275,
+      "avg_fill_price": 0.016445909215969345,
+      "avg_edge": 0.050865371210715826,
+      "total_shares": 1242.4517434210525,
+      "nyc_count": 2,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.12,
+      "max_price": 0.2,
+      "trades": 3,
+      "avg_divergence": 0.15855352709402068,
+      "avg_fill_price": 0.02236830572038882,
+      "avg_edge": 0.07563358671483293,
+      "total_shares": 1534.7374577067667,
+      "nyc_count": 3,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.12,
+      "max_price": 0.25,
+      "trades": 3,
+      "avg_divergence": 0.15855352709402068,
+      "avg_fill_price": 0.02236830572038882,
+      "avg_edge": 0.07563358671483293,
+      "total_shares": 1534.7374577067667,
+      "nyc_count": 3,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.12,
+      "max_price": 0.3,
+      "trades": 3,
+      "avg_divergence": 0.15855352709402068,
+      "avg_fill_price": 0.02236830572038882,
+      "avg_edge": 0.07563358671483293,
+      "total_shares": 1534.7374577067667,
+      "nyc_count": 3,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.12,
+      "max_price": 0.5,
+      "trades": 5,
+      "avg_divergence": 0.1491321162564124,
+      "avg_fill_price": 0.19742098343223327,
+      "avg_edge": 0.025175191382511165,
+      "total_shares": 1578.2980637673727,
+      "nyc_count": 3,
+      "chicago_count": 2
+    },
+    {
+      "min_div": 0.15,
+      "max_price": 0.15,
+      "trades": 1,
+      "avg_divergence": 0.21958290073341302,
+      "avg_fill_price": 0.018840645817674112,
+      "avg_edge": -0.003340645817674126,
+      "total_shares": 530.7673684210527,
+      "nyc_count": 1,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.15,
+      "max_price": 0.2,
+      "trades": 1,
+      "avg_divergence": 0.21958290073341302,
+      "avg_fill_price": 0.018840645817674112,
+      "avg_edge": -0.003340645817674126,
+      "total_shares": 530.7673684210527,
+      "nyc_count": 1,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.15,
+      "max_price": 0.25,
+      "trades": 1,
+      "avg_divergence": 0.21958290073341302,
+      "avg_fill_price": 0.018840645817674112,
+      "avg_edge": -0.003340645817674126,
+      "total_shares": 530.7673684210527,
+      "nyc_count": 1,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.15,
+      "max_price": 0.3,
+      "trades": 1,
+      "avg_divergence": 0.21958290073341302,
+      "avg_fill_price": 0.018840645817674112,
+      "avg_edge": -0.003340645817674126,
+      "total_shares": 530.7673684210527,
+      "nyc_count": 1,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.15,
+      "max_price": 0.5,
+      "trades": 1,
+      "avg_divergence": 0.21958290073341302,
+      "avg_fill_price": 0.018840645817674112,
+      "avg_edge": -0.003340645817674126,
+      "total_shares": 530.7673684210527,
+      "nyc_count": 1,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.2,
+      "max_price": 0.15,
+      "trades": 1,
+      "avg_divergence": 0.21958290073341302,
+      "avg_fill_price": 0.018840645817674112,
+      "avg_edge": -0.003340645817674126,
+      "total_shares": 530.7673684210527,
+      "nyc_count": 1,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.2,
+      "max_price": 0.2,
+      "trades": 1,
+      "avg_divergence": 0.21958290073341302,
+      "avg_fill_price": 0.018840645817674112,
+      "avg_edge": -0.003340645817674126,
+      "total_shares": 530.7673684210527,
+      "nyc_count": 1,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.2,
+      "max_price": 0.25,
+      "trades": 1,
+      "avg_divergence": 0.21958290073341302,
+      "avg_fill_price": 0.018840645817674112,
+      "avg_edge": -0.003340645817674126,
+      "total_shares": 530.7673684210527,
+      "nyc_count": 1,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.2,
+      "max_price": 0.3,
+      "trades": 1,
+      "avg_divergence": 0.21958290073341302,
+      "avg_fill_price": 0.018840645817674112,
+      "avg_edge": -0.003340645817674126,
+      "total_shares": 530.7673684210527,
+      "nyc_count": 1,
+      "chicago_count": 0
+    },
+    {
+      "min_div": 0.2,
+      "max_price": 0.5,
+      "trades": 1,
+      "avg_divergence": 0.21958290073341302,
+      "avg_fill_price": 0.018840645817674112,
+      "avg_edge": -0.003340645817674126,
+      "total_shares": 530.7673684210527,
+      "nyc_count": 1,
+      "chicago_count": 0
+    }
+  ]
+}
